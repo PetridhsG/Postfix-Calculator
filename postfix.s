@@ -1,4 +1,4 @@
-#IOANNIS PETRIDIS p3210167
+
 
 #---------MIPS POSTFIX CALCULATOR---------#
 #-Calculate a postfix expression given by the user.
