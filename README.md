@@ -1,4 +1,4 @@
-# postfix_calculator
+# Postfix Calculator
 A simple postfix calculator in MIPS assembly lanugage.
 
 Calculate a postfix expression given by the user.
